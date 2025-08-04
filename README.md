@@ -1,6 +1,6 @@
 these files will make visual code very similar to CODE::BLOCKS
 
-external terminal windows that shows the output similar to CODE::BLOCKS
+external terminal window that shows the output similar to CODE::BLOCKS
 
 only  builds the file again if it was edited
 
