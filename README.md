@@ -8,6 +8,6 @@ change the default  execuator of code runner to
 
 **change the  specified path to your path**
 
-**change the specified path of run_time.ps1 inside build_and_run.ps1 to your path **
+**change the specified path of run_time.ps1 inside build_and_run.ps1 to your path**
 
 **run code with ctrl+alt+n**
