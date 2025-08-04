@@ -8,4 +8,6 @@ to           "cpp": "powershell -NoLogo -File C:\\Users\\super\\Documents\\CPP\\
 
 change the  specified path to your path
 
+change the specified path of run_time.ps1 inside build_and_run.ps1 to your path 
+
 run code with ctrl+alt+n
