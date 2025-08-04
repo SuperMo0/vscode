@@ -1,7 +1,10 @@
 only on windows 
 
 **1** Place these files inside .vscode file 
+
+
 **2** change the default terminal to powershell
+
 
 **3** change the default  execuator of code runner to
 
