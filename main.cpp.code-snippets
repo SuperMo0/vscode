@@ -1,0 +1,27 @@
+{
+	"My Default C++ Template": {
+  "scope": "cpp",
+  "prefix": "cp",
+  "body": [
+    "#define _GLIBCXX_FILESYSTEM",
+    "#include <bits/stdc++.h>",
+    "#define IOS ios::sync_with_stdio(0); cin.tie(0); cout.tie(0);",
+    "#define ll long long",
+    "#define int long long",
+    "#define f first",
+    "#define s second",
+    "using namespace std;",
+    "",
+    "",
+    "signed main()",
+    "{",
+    "    IOS",
+    "    $0",
+    "    ",
+    "    return 0;",
+    "}"
+  ],
+  "description": "C++ competitive programming template"
+}
+
+}
