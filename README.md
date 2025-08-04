@@ -1,8 +1,9 @@
 only on windows 
 
-Place these files inside .vscode file 
+**1** Place these files inside .vscode file 
+**2** change the default terminal to powershell
 
-change the default  execuator of code runner to
+**3** change the default  execuator of code runner to
 
 "cpp": "powershell -NoLogo -File C:\\Users\\super\\Documents\\CPP\\.vscode\\build_and_run.ps1 $fullFileName $fileNameWithoutExt.exe",
 
